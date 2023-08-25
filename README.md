@@ -23,7 +23,12 @@ The AND gate is a fundamental digital logic gate with two inputs and one output.
 The NOT gate is a fundamental digital logic gate. It has a single input and a single output. The output is the inverse of the input: if the input is high (1), the output is low (0), and vice versa. It's a basic building block in digital circuits, used for logic inversion.
 
 ## Procedure:
-
+1.Create a project with required entities.
+2.Create a module along with respective file name.
+3.Run the respective programs for the given boolean equations.
+4.Run the module and get the respective RTL outputs.
+5.Create university program(VWF) for getting timing diagram. 
+6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
@@ -46,6 +51,8 @@ endmodule
 ![WhatsApp Image 2023-08-25 at 09 45 04](https://github.com/Sabariakash22009103/Experiment--02-Implementation-of-combinational-logic-/assets/119390227/3ba70300-859a-4bf0-83ba-641ac9059688)
 
 ## Truth Table:
+![image](https://github.com/Sabariakash22009103/Experiment--02-Implementation-of-combinational-logic-/assets/119390227/16b15809-65a8-472b-af24-a74c67f8c0c2)
+
 ## Output Waveform:
 ![WhatsApp Image 2023-08-25 at 09 45 37](https://github.com/Sabariakash22009103/Experiment--02-Implementation-of-combinational-logic-/assets/119390227/099aa536-e439-4510-aa30-605d78d7105d)
 
