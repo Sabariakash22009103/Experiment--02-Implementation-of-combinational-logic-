@@ -30,11 +30,11 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 5.Create university program(VWF) for getting timing diagram. 
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+```
 Developed by: Sabari Akash A 
 RegisterNumber: 212222230124 
-```
+
 module expression(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
